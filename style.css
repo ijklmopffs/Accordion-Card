@@ -15,7 +15,9 @@ body {
   margin-block-end: 5px;
   width: 90%;
 }
-
+svg {
+  cursor: pointer;
+}
 .images {
   display: flex;
   align-items: center;
@@ -32,6 +34,7 @@ body {
 }
 .faq {
   padding: 80px;
+  width: 100%;
 }
 .test {
   width: 100%;
